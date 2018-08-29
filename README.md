@@ -6,10 +6,10 @@
 - O software utilizado é o QUARTUS II, versão 13.1.
 <br><br>
 - O  FPGA utilizado na criação do projeto:<br>
-• Device family: Cyclone III
-• Package: FBGA
-• Pin count: 484
-• Speed grade: 6
+• Device family: <b>Cyclone III</b><br>
+• Package: <b>FBGA</b><br>
+• Pin count: <b>484</b><br>
+• Speed grade: <b>6</b><br>
 <br><br>
 - Para as simulações utilizei o software ModelSim-10.1 (Acompanha a instalação do Quartus II).
 <br>
