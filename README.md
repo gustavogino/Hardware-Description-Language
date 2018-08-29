@@ -10,7 +10,7 @@
 • Package: <b>FBGA</b><br>
 • Pin count: <b>484</b><br>
 • Speed grade: <b>6</b><br>
-<br><br>
+<br>
 - Para as simulações utilizei o software ModelSim-10.1 (Acompanha a instalação do Quartus II).
 <br>
 -------------------------
