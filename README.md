@@ -11,7 +11,8 @@
 • Pin count: <b>484</b><br>
 • Speed grade: <b>6</b><br>
 <br>
-* Para as simulações utilizei o software ModelSim-10.1 (Acompanha a instalação do Quartus II).
+
+- Para as simulações utilizei o software ModelSim-10.1 (Acompanha a instalação do Quartus II).
 <br><br>
 
 -------------------
