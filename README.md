@@ -12,7 +12,7 @@
 • Speed grade: <b>6</b><br>
 <br>
 - Para as simulações utilizei o software ModelSim-10.1 (Acompanha a instalação do Quartus II).
-<br>
--------------------------
+<br><br>
 
+-------------------
 Gustavo Gino Scotton    |   Engenharia da Computação - UFSC   |   gustavo.gino@outlook.com
