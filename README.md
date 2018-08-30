@@ -1,11 +1,11 @@
 # Hardware Description Language 
 <h4>(Linguagem de Descrição de Hardware)</h4>
 
-- Os códigos aqui apresentados serão desenvolvidos utilizando a linguagem de sintese de hardware <a href="https://pt.wikipedia.org/wiki/VHDL"><b>VHDL</b></a>.
+- Os códigos aqui apresentados foram desenvolvidos utilizando a linguagem de sintese de hardware <a href="https://pt.wikipedia.org/wiki/VHDL"><b>VHDL</b></a>.
 <br><br>
 - O software utilizado é o QUARTUS II, versão 13.1.
 <br><br>
-- O  FPGA utilizado na criação do projeto:<br>
+- O  KIT FPGA utilizado na criação dos projetos foi:<br>
 • Device family: <b>Cyclone III</b><br>
 • Package: <b>FBGA</b><br>
 • Pin count: <b>484</b><br>
