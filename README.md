@@ -7,7 +7,7 @@
 <br><br>
 - O  KIT FPGA utilizado na criação dos projetos foi:<br>
 • Device family: <b>Cyclone III</b><br>
-• Package: <b>FPGA</b><brz
+• Package: <b>FPGA</b><br>
 • Pin count: <b>484</b><br>
 • Speed grade: <b>6</b><br>
 <br>
